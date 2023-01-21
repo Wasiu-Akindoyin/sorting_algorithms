@@ -1,0 +1,1 @@
+This is a README file of 0x1B. C - Sorting algorithms & Big O Team Project in ALX Software Engineering Program by Wasiu Akindoyin and Michael Nnachi from Cohort 9.
